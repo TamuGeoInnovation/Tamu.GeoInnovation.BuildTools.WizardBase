@@ -1,4 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\BuildTools.WizardBase\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.BuildTools.WizardBase.dll
-C:\DevSource\Tamu\GeoInnovation\BuildTools.WizardBase\src\Main\obj\Release\Tamu.GeoInnovation.BuildTools.WizardBase.Properties.Resources.resources
-C:\DevSource\Tamu\GeoInnovation\BuildTools.WizardBase\src\Main\obj\Release\BuildTools.WizardBase.Dev.csproj.GenerateResource.Cache
-C:\DevSource\Tamu\GeoInnovation\BuildTools.WizardBase\src\Main\obj\Release\Tamu.GeoInnovation.BuildTools.WizardBase.dll
